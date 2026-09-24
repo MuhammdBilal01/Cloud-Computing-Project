@@ -1,12 +1,6 @@
 # ☁️ Cloud Computing Project
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Domain-Cloud%20Computing-blue?style=for-the-badge" alt="Cloud Computing">
-  <img src="https://img.shields.io/badge/Project-Academic%20Project-orange?style=for-the-badge" alt="Academic Project">
-  <img src="https://img.shields.io/badge/Documentation-PDF-red?style=for-the-badge" alt="Documentation">
-</p>
-
-<p align="center">
   <b>A practical Cloud Computing project focused on understanding cloud architecture, virtualization, distributed computing, scalability, and cloud-based infrastructure.</b>
 </p>
 
