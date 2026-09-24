@@ -52,16 +52,16 @@ The project follows a cloud-oriented architecture in which users interact with a
                                     │
                                     ▼
                  ┌────────────────────────────────────┐
-                 │        CLOUD INFRASTRUCTURE         │
+                 │        CLOUD INFRASTRUCTURE        │
                  │                                    │
-                 │   ┌──────────┐   ┌────────────┐   │
-                 │   │ Compute  │   │  Storage   │   │
-                 │   └──────────┘   └────────────┘   │
+                 │   ┌──────────┐   ┌────────────┐    │
+                 │   │ Compute  │   │  Storage   │    │
+                 │   └──────────┘   └────────────┘    │
                  │                                    │
-                 │   ┌──────────┐   ┌────────────┐   │
-                 │   │ Network  │   │ Virtualized │   │
-                 │   │ Services │   │ Resources   │   │
-                 │   └──────────┘   └────────────┘   │
+                 │   ┌──────────┐   ┌────────────┐    │
+                 │   │ Network  │   │ Virtualized│    │
+                 │   │ Services │   │ Resources  │    │
+                 │   └──────────┘   └────────────┘    │
                  └────────────────┬───────────────────┘
                                   │
                                   ▼
